@@ -24,10 +24,10 @@ Each chapter includes clear explanations, examples, and interactive code so you 
 
 If you'd like to build the book yourself:
 
-### Step 1: Clone the repository:
+### Step 1: Clone the repository(PYTHON_CORE_notebooks) :
    ```bash
-   git clone https://github.com/FAHAD-ALI-github/learn-python-with-fahad.git
-   cd learn-python-with-fahad
+   git clone https://github.com/FAHAD-ALI-github/PYTHON_CORE_notebooks.git
+   cd PYTHON_CORE_notebooks
    ```
 
 ### **Install Jupyter Book** (if not installed):
