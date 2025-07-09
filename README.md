@@ -30,7 +30,7 @@ If you'd like to build the book yourself:
    cd learn-python-with-fahad
    ```
 
-###**Install Jupyter Book** (if not installed):
+### **Install Jupyter Book** (if not installed):
    ```bash
    pip install -U jupyter-book
    ```
